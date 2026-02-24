@@ -1,0 +1,844 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+a.navbar-brand img {
+    width:192px;
+}
+
+
+
+/*.card{
+    border: none !important;
+}*/
+.btn {
+    background-color:#183761!important;
+    color: white !important;
+    
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#183761;
+}
+nav.navbar.navbar-expand-lg {
+    background-color: #183761;
+    
+}
+.back2{
+    background: url(/img/bg-04.png);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    background-position: 50% 50%;
+    
+
+}
+
+.back4 {
+    background: url(/img/vet-pettt.webp);
+    background-size: cover;
+    width: 100%;
+    height: 470px;
+    background-position: 50% 50%;
+   
+
+}
+
+
+.back6 {
+    background: url(/img/bgggg.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 470px;
+    background-position: 50% 50%;
+   
+
+}
+
+h1.mb-lg-1-6 {
+    font-family: cursive;
+    color: #183761;
+    font-weight: 400;
+}
+div#navbarSupportedContent {
+    margin-left: 155px;
+}
+
+
+a.expert:hover {
+    background: #18366151;
+    color: white;
+}
+
+.dog-card:hover {
+       background:#18366151;
+    color: white;
+}
+
+.dog-card{
+    width: 186px;
+    height: 186px;
+    background: #ffffff;
+    border: solid 3px #183761;
+    border-radius: 100px;
+    text-align: center;
+    padding: 40px;
+    display: block;
+    margin: 0 auto;
+}
+img.img-fluid.rounded-start {
+    width: 437px;
+    height: 493px;
+}
+
+.card-cat{
+    border: none;
+}
+.text-center {
+    text-align: center !important;
+     font-weight: 950;
+    font-family: serif;
+    color: #183761;
+}
+h2.mb-lg-1-6.text-white {
+    font-family:cursive;
+        font-weight: 800;
+    letter-spacing: -.75px;
+}
+
+.col-xl-3.lets {
+    width: 20% !important;
+}
+
+
+.card-body1 button {
+    position: absolute;
+    right: 52px;
+    top: 110px;
+    width: 30%;
+}
+
+.card-cat1{
+    position: relative;
+}
+.card-body2 button {
+    position: absolute;
+    right: 101px;
+    top: 110px;
+    width: 30%;
+}
+
+.card-cat2{
+    position: relative;
+}
+.card-body3 button {
+    position: absolute;
+       right: 260px;
+    top: 113px;
+    width: 30%;
+}
+
+.card-cat3{
+    position: relative;
+}
+
+
+.accordion-item {
+    border: inherit !important;
+}
+
+.accordion-button{
+    border: inherit !important;
+}
+
+.consultation {
+    width: 20% !important;
+}
+.blow {
+    width: 20% !important;
+}
+.accordion-button:not(.collapsed) {
+    color: inherit !important;
+    background-color: inherit !important;
+    border: inherit !important;
+    
+}
+button.accordion-button:hover {
+     background: #18366151 ;
+     color: rgb(0, 0, 0); 
+    border: none !important;
+}
+p {
+    text-align: justify;
+}
+.footer1{
+    background-color:#183761;
+}
+.card{
+    border-radius: 30px;
+}
+.bdayy img {
+    width: 100%;
+    border-radius: 10px;
+        margin-bottom: 56px;
+        
+}
+.btn-dry {
+    background-color:#183761;
+    color: white ;
+        width: 309px;
+    height: 52px;
+    border-radius:12px;
+        BORDER: none;
+}
+ul {
+    color: white;
+ 
+}
+button.btn-dry:hover {
+
+background: #18366151;
+    color: rgb(0, 0, 0);
+    border: none !important;
+}
+.footer3 ul {
+    column-count: 2;
+        padding: 0;
+}
+.footer1 ul li {
+    list-style-type: none;
+}
+.footer3 ul li {
+    list-style-type: none;
+}
+.form-banner{
+    background: url(/img/knowmore_banner.webp);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    background-position: 50% 50%;
+    position: relative;
+    padding-top: 45px;
+    margin-bottom: 78px;
+
+}
+.footer1 img {
+    width: 78%;
+    padding-bottom: 13px;
+}
+.pet1 {
+    position: absolute;
+    right: 146px;
+    top: -74px;
+}
+
+.event {
+    /* padding-top: 120px; */
+    background-color: rgb(255, 246, 222);
+    border-radius: 20px;
+}
+.footer2 {
+    padding-top: 30px;
+}
+.footer3 {
+    padding-top: 30px;
+}
+.footer4 {
+    padding-top: 30px;
+}
+.content-video-text-banner {
+    background-color: #183761;
+}
+.content-video-text-banner {
+    width: 100%;
+    border-radius: 16px;
+}
+.video-div-banner {
+    padding-left: 54px;
+    padding-top: 6px;
+    
+}
+h1 {
+    font-family: cursive;
+    color: #183761;
+    
+}
+.text-div-banner.flex h1 {
+    color: #183761;
+}
+video.embed-responsive-item {
+    width: 80%;
+    border-radius: 31px;
+}
+.claim-banner {
+    background: url(/img/BrandClaims_.webp);
+    background-size: cover;
+    width: 84%;
+    height: 238px;
+    background-position: 50% 50%;
+    margin-left: 129px;
+    margin-bottom: -72px;
+}
+.bghome{
+    background-color: #fdf8ee;
+}
+footer .wave-image-wrapper {
+    line-height: 0;
+    margin-bottom: -1px;
+}
+.brand {
+    width: 69%;
+    margin-left: 34px;
+}
+.text-div-banner h1 {
+    color: #ffffff;
+}
+
+a.nav-link {
+    color: white !important;
+}
+button.call-btn {
+       background-color: #183761;
+    color: white;
+    width:45%;
+    height: 52px;
+    border-radius: 12px;
+    BORDER: none;
+}
+.name {
+    margin-bottom: 11px;
+}
+.name1 {
+    margin-bottom: 11px;
+}
+section.py-5.pet-world {
+    background: #183761;
+    color: white;
+
+}
+.pet-form {
+    height: 323px;
+    padding-top: 23px;
+}
+
+
+.brand img {
+    transition: transform 0.8s ease-in-out;
+    transform: scale(1) translateY(0px)
+ }
+
+
+
+ .brand img:hover {
+    transform: scale(1.1);
+    border: 1px solid #102643;
+    padding: 10px;
+ }
+
+ .bdayy  {
+    transition: transform 0.3s ease-in-out;
+  
+ }
+
+.bdayy img {
+    object-fit: cover;
+}
+
+ /* .bdayy img:hover {
+    transform: scale(1.1);
+    
+ } */
+/* .brand:hover img {
+    background: #183761;
+    padding: 10px;
+} */
+.event {
+    box-shadow: 2px 2px 8px 0.9px rgb(114 109 109);
+}
+
+ul.call {
+    
+    color: #183761;
+}
+.top1 ul li {
+    display: inline;
+    margin-right: 9px;
+}
+.nav-top {
+    display: flex;
+    /* align-content: end; */
+    align-content: center;
+    justify-content: center;
+}
+.male{
+    width: 3%;
+       
+}
+ul.call {
+    margin-top: 9px;
+    margin-right: -335px;
+}
+i.fa.fa-heart {
+    color: white;
+    font-size: 24px;
+}
+i.fa.fa-shopping-bag {
+
+     color: white;
+   font-size: 25px;
+}
+i.fa.fa-map-marker {
+
+ color: white;
+   font-size: 25px;
+    }
+ .wish ul li{
+
+ 
+    display: inline;
+}
+li.male img {
+    width: 20%;
+    margin-right: 2px;
+}
+.stats-inner {
+    border-radius: 12px;
+    padding: 40px 20px;
+}
+.icons{
+    background: #183761;
+        border-radius: 27px;
+
+}
+.icons h2 {
+    color: white;
+}
+.icons p {
+    color: white;
+}
+
+
+.service-card {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    padding: 25px 20px;
+  
+}
+.petttt {
+    background: #f3f7fa;;
+}
+.back-groom {
+    background: url(/img/grooomm.webp);
+    background-size: cover;
+    width: 100%;
+    height: 470px;
+    background-position: 50% 50%;
+   
+
+}
+
+ul.wishlist li {
+    margin-left: 10px;
+}
+
+.vet-para p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 18px;
+    letter-spacing
+
+: 2px;
+}
+.vet-para h2 {
+    font-family: cursive;
+    color: #183864;
+}
+.iconimg
+
+ {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background: white;
+    margin-left: 112px;
+}
+
+.vet-para {
+    padding-top: 48px;
+}
+
+
+/* 
+{
+    .col-xl-3 {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+} */
+
+.row.one {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+form.d-flex {
+    width: 14%;
+}
+ul.wishlist {
+    padding-top: 16px;
+}
+.icon1 {
+    padding-top: 33px;
+ 
+}
+.icon1 h2 {
+    font-family: cursive;
+}
+.icon1 p {
+    font-family: cursive;
+}
+.appointment {
+    border: 1px solid #1ab6ff;
+    background:  #eef8fe;
+    border-radius: 67px;
+}
+.petcare {
+    padding-top: 109px;
+}
+.petcare h2 {
+    font-family: cursive;
+    color: #183761;
+}
+.service-tabs {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+.service-tabs .tab.active {
+    background: #183761;
+    color: #fff;
+}
+.service-tabs .tab {
+    background: #f2f6fa;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s 
+ease;
+}
+.services-content p{
+    color: black;
+    line-height: 2;
+    text-align: justify;
+}
+.services-content ul li{
+    color: black;
+    line-height: 2;
+    text-align: justify;
+}
+.internal img{
+    border-radius: 45px;
+    height: 370px;
+}
+.services-content h2 {
+    font-family: cursive;
+    color: #102643;
+}
+.expert.py-2 {
+    background: #f8ead9;
+}
+.form {
+    border: 1px solid rgb(209, 206, 206);
+    border-radius: 19px;
+    box-shadow: 1px 2px 6px rgb(196, 196, 196);
+    padding-bottom: 12px;
+}
+.expert.py-2 {
+    margin-bottom: 31px;
+}
+.love {
+    background: #fff2dc;
+    border-radius: 40px;
+}
+
+.love h3 {
+    font-family: cursive;
+    color: #183761;
+}
+.care {
+    padding-top: 123px;
+}
+ul.comfort0 {
+    color: black;
+    line-height: 2;
+}
+h2.zig {
+    font-family: cursive;
+    color: #183761;
+   
+}
+.blog {
+    background: url(/img/Blog-Banner.webp);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    background-position: 50% 50%;
+}
+.petcare {
+    padding-bottom: 27px;
+}
+.careimgg {
+    padding-top: 29px;
+}
+
+.gal{
+    padding-top: 20px;
+}
+.gallery-card1 {
+    padding-left: 75px;
+    width: 70%;
+}
+.catt img {
+    border-radius: 23px;
+     width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: transform 0.6s ease-in-out;
+    display: block;
+}
+.row.one p {
+    color: #17355d;
+    padding-top: 10px;
+       
+}
+.row.one p {
+    margin-left: 61px;
+}
+i.fa.fa-map-marker.loc {
+    font-size: 21px;
+}
+.top1 {
+    background: #bed5f6ba;
+}
+.pb-4 {
+    padding-bottom: 2.5rem;
+}
+
+.footer__copyright {
+    text-align: center;
+}
+/* .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-auto-rows: 150px;
+    gap: 12px;
+}
+.gallery-card:nth-child(1) {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+.gallery-card {
+    overflow: hidden;
+    border-radius: 8px;
+    position: relative;
+}
+.gallery-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.6s ease-in-out;
+    display: block;
+} */
+ p.copyright__txt {
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+}
+.card img:hover
+
+ {
+    transform: scale(1.1);
+   
+    padding: 10px;
+}
+
+.card img {
+    transition: transform 0.8s ease-in-out;
+    transform: scale(1) translateY(0px);
+}
+.coin img:hover
+
+ {
+    transform: scale(1.1);
+   
+    padding: 10px;
+}
+
+
+.coin img {
+    transition: transform 0.8s ease-in-out;
+    transform: scale(1) translateY(0px);
+}
+.coin1 {
+    padding-top: 37px;
+}
+.coin1 img:hover
+
+ {
+    transform: scale(1.1);
+   
+    padding: 10px;
+}
+
+.coin1 img {
+    transition: transform 0.8s ease-in-out;
+    transform: scale(1) translateY(0px);
+}
+.acc1 img:hover
+
+ {
+    transform: scale(1.1);
+   
+    padding: 10px;
+}
+
+.acc1 img {
+    transition: transform 0.8s ease-in-out;
+    transform: scale(1) translateY(0px);
+}
+.cardd {
+    background: #ffe3ac85;
+}
+.dog-card:hover
+
+ {
+    transform: scale(1.1);
+   
+    padding: 10px;
+}
+
+.dog-card img {
+    transition: transform 0.8s ease-in-out;
+    transform: scale(1) translateY(0px);
+}
+.imgcd {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+
+}
+
+
+.imgcd:hover .overlay {
+  opacity: 1;
+  
+}
+
+
+.icon {
+    
+    font-size: 100px;
+    position: absolute;
+    top: 25%;
+    left: 41%;
+    right: -39%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    margin-left: 30px;
+    padding-top: 86px;
+}
+
+h2.text-center {
+    font-family: cursive;
+}
+.gallery-card1 {
+    margin-top: 16px;
+}
+.gallery-card1:hover
+
+ {
+    transform: scale(1.1);
+   
+    padding: 10px;
+}
+
+.gallery-card1 img {
+    transition: transform 0.8s ease-in-out;
+    transform: scale(1) translateY(0px);
+}
+.gal:hover
+
+ {
+    transform: scale(1.1);
+   
+    padding: 10px;
+}
+
+.gal img {
+    transition: transform 0.8s ease-in-out;
+    transform: scale(1) translateY(0px);
+}
+span.position-absolute.top-0.start-100.translate-middle.p-2.bg-danger.border.border-light.rounded-circle {
+    margin-left: -183px;
+    margin-top: 28px;
+}
+ul.wishlist li {
+    margin-left: 12px;
+    font-size: 26px;
+}
+.rounded-circle {
+    border-radius: 91% !important;
+    font-size: 5px;
+}
+
+a.btn.btn-primary {
+
+    padding-right: 37px;
+}
+
+.footer1 ul li span {
+    padding-left: 11px;
+}
+
+.cart {
+    right: 50px;
+    top: 25px;
+    padding: 2px 7px;
+}
+.wish {
+    position: relative;
+}
+span.tag {
+    font-size: 10px;
+}
+
